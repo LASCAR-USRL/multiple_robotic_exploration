@@ -76,8 +76,8 @@ python infer.py
     <img src="https://user-images.githubusercontent.com/51202713/213887068-73803637-b2b3-49ac-80a9-f4a16df252be.gif" width="40%" height="40%" 
 </p>!
 
-## Cita-me
-Mais informação sobre a aplicação sobre a aplicação na dissertações e artigos abaixo:
+## Citation
+More information about the application in the dissertations and articles below:
 
 LUÍZA CAETANO GARAFFA, [Evaluation of mapless navigation for
 unknown indoor environment exploration
